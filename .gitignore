@@ -1,0 +1,29 @@
+# Виртуальное окружение
+yolovenv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Данные (изображения, видео, аннотации)
+frames and labels/
+origin frames and labels/
+original frames and labels/
+video recording/
+*.jpg
+*.png
+*.mp4
+*.avi
+
+# ОС-специфичные файлы
+.DS_Store
+Thumbs.db
+
+# Аннотации YOLO
+labels/
+origin labels/
+*.txt

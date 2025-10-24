@@ -1,0 +1,13 @@
+train: train/images
+
+
+
+val:  validation/images
+
+
+
+test: test/images
+
+
+nc: 3
+names: ['defected pill','different color pill','pill']
