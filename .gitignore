@@ -26,4 +26,4 @@ Thumbs.db
 # Аннотации YOLO
 labels/
 origin labels/
-*.txt
+test venv/
